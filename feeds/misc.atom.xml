@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Vic Lee's blog - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2020-07-14T16:40:00+08:00</updated><entry><title>测试blog2</title><link href="/ce-shi-blog2.html" rel="alternate"></link><published>2020-07-14T16:40:00+08:00</published><updated>2020-07-14T16:40:00+08:00</updated><author><name>lwy0ever</name></author><id>tag:None,2020-07-14:/ce-shi-blog2.html</id><content type="html">&lt;h1&gt;测试2&lt;/h1&gt;
-&lt;p&gt;这是一篇测试用的blog2&lt;/p&gt;
-&lt;p&gt;仅供测试使用2&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>测试blog</title><link href="/ce-shi-blog.html" rel="alternate"></link><published>2020-07-13T17:50:00+08:00</published><updated>2020-07-13T17:50:00+08:00</updated><author><name>lwy0ever</name></author><id>tag:None,2020-07-13:/ce-shi-blog.html</id><content type="html">&lt;h1&gt;测试&lt;/h1&gt;
-&lt;p&gt;这是一篇测试用的blog&lt;/p&gt;
-&lt;p&gt;仅供测试使用&lt;/p&gt;</content><category term="misc"></category></entry></feed>
